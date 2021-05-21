@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ALonelyTower
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Testing
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: Keeping to myself for now
